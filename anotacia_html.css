@@ -30,24 +30,6 @@ a:hover { color:#B2B3B4; }
 #button_73dd7aaf { vertical-align: bottom; position:relative; display: inline-block; margin:5px 0px 0px 0px;width:270px; height:38px; background-color:#3A5068; box-shadow: 3px 3px 4px 0px rgba(0, 0, 0, 0.588235);  }
 #button_73dd7aaf:hover { background-color:#7A8591;  }
 #button_73dd7aaf:hover span { color:#FFFFFF; }
-#button_6b364148 { vertical-align: bottom; position:relative; display: inline-block; margin:5px 5px 0px 0px;width:175px; height:38px; background-color:#3A5068; box-shadow: 3px 3px 4px 0px rgba(0, 0, 0, 0.588235);  }
-#button_6b364148:hover { background-color:#7A8591;  }
-#button_6b364148:hover span { color:#FFFFFF; }
-#button_5b6fb27c { vertical-align: bottom; position:relative; display: inline-block; margin:5px 5px 0px 0px;width:175px; height:38px; background-color:#3A5068; box-shadow: 3px 3px 4px 0px rgba(0, 0, 0, 0.588235);  }
-#button_5b6fb27c:hover { background-color:#7A8591;  }
-#button_5b6fb27c:hover span { color:#FFFFFF; }
-#button_6bb1ef27 { vertical-align: bottom; position:relative; display: inline-block; margin:5px 5px 0px 0px;width:175px; height:38px; background-color:#3A5068; box-shadow: 3px 3px 4px 0px rgba(0, 0, 0, 0.588235);  }
-#button_6bb1ef27:hover { background-color:#7A8591;  }
-#button_6bb1ef27:hover span { color:#FFFFFF; }
-#button_3771cb8a { vertical-align: bottom; position:relative; display: inline-block; margin:5px 5px 0px 0px;width:175px; height:38px; background-color:#3A5068; box-shadow: 3px 3px 4px 0px rgba(0, 0, 0, 0.588235);  }
-#button_3771cb8a:hover { background-color:#7A8591;  }
-#button_3771cb8a:hover span { color:#FFFFFF; }
-#button_2120d1ae { vertical-align: bottom; position:relative; display: inline-block; margin:5px 5px 0px 0px;width:175px; height:38px; background-color:#3A5068; box-shadow: 3px 3px 4px 0px rgba(0, 0, 0, 0.588235);  }
-#button_2120d1ae:hover { background-color:#7A8591;  }
-#button_2120d1ae:hover span { color:#FFFFFF; }
-#button_70c663b5 { vertical-align: bottom; position:relative; display: inline-block; margin:5px 0px 0px 0px;width:175px; height:38px; background-color:#3A5068; box-shadow: 3px 3px 4px 0px rgba(0, 0, 0, 0.588235);  }
-#button_70c663b5:hover { background-color:#7A8591;  }
-#button_70c663b5:hover span { color:#FFFFFF; }
 body { background-color:#F1F1F1; padding:0;  margin: 0; }
 .textstyle1 { text-align:center; }
 #container_7a495f19 { vertical-align: top; position:relative; display: inline-block; width:93%; min-height:53px; max-width:1024px; background:none; position: fixed; z-index: 3000; }
@@ -95,14 +77,6 @@ body { background-color:#F1F1F1; padding:0;  margin: 0; }
 .textstyle15 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#545454; font-weight:bold;  }
 .textstyle16 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#545454;  }
 #button_73dd7aaf_padding { margin: 10px; display: block;  }
-#container_6879060f { vertical-align: top; position:relative; display: inline-block; width:93%; min-height:53px; max-width:1024px; background:none; position: fixed; z-index: 3000; }
-#container_45953828 { vertical-align: top; position:relative; display: inline-block; width:100%; background-color:#3A5068; position: fixed; z-index: 3000; }
-#button_6b364148_padding { margin: 10px; display: block;  }
-#button_5b6fb27c_padding { margin: 10px; display: block;  }
-#button_6bb1ef27_padding { margin: 10px; display: block;  }
-#button_3771cb8a_padding { margin: 10px; display: block;  }
-#button_2120d1ae_padding { margin: 10px; display: block;  }
-#button_70c663b5_padding { margin: 10px; display: block;  }
 .textstyle17 { font-size:10pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
 @media only screen and (max-width: 800px)
 {
@@ -121,7 +95,6 @@ body { background-color:#F1F1F1; padding:0;  margin: 0; }
 @media only screen and (max-width: 640px)
 {
 		#container_7a495f19 { position: static; }
-		#container_6879060f { position: static; }
 }
 @media only screen and (max-width: 400px)
 {
@@ -131,10 +104,4 @@ body { background-color:#F1F1F1; padding:0;  margin: 0; }
 		#button_2aa230e3 { width:100%;  }
 		#button_1483ef12 { width:100%;  }
 		#button_54755a93 { width:100%;  }
-		#button_6b364148 { width:100%;  }
-		#button_5b6fb27c { width:100%;  }
-		#button_6bb1ef27 { width:100%;  }
-		#button_3771cb8a { width:100%;  }
-		#button_2120d1ae { width:100%;  }
-		#button_70c663b5 { width:100%;  }
 }
